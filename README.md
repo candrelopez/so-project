@@ -41,7 +41,7 @@ El siguiente proyecto consiste en el despliegue de una aplicación web para obte
 3. Inicialmente se instala el phyton, pero debido a que con la evrsión que instala del phyton tenia problemas, tuve que actualizar la versión del phython para que me dejara instalar  el virtualenv, como muestro a continuaciíon:
 
 <p align="center">
-  <img src="Actualización phyton" alt="Install phyton"/>
+  <img src="Actualización phyton.PNG" alt="Install phyton"/>
 </p>
 ## Referencias
 * https://www.ubuntu.com/download/server
