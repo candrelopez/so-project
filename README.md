@@ -35,5 +35,13 @@ El siguiente proyecto consiste en el despliegue de una aplicación web para obte
 * Pruebas de la solución a través de capturas de pantalla. Puede emplear si lo desea una herramienta de captura de pantalla a formato .gif (10%)
 * El informe debe ser entregado en formato pdf a través del moodle y el informe en formato README.md debe ser subido a un repositorio de github. El repositorio de github debe ser un fork de https://github.com/ICESI-Training/so-project y para la entrega deberá hacer un Pull Request (PR) respetando la estructura definida. El código fuente y la url de github deben incluirse en el informe (10%).
 
+## Solución
+1. Como primer paso se descargo y se instalo el Ubuntu server desde el link que aparece como referencia.  
+2. se procedio a configurar las interfases, en este punto tuve bastantes problemas ya que mi maquina esta configurada bajo una red cerrada y solo funcionaba con iP fija, pero lo solucione trabajando con la red inalambrica.
+3. Inicialmente se instala el phyton, pero debido a que con la evrsión que instala del phyton tenia problemas, tuve que actualizar la versión del phython para que me dejara instalar  el virtualenv, como muestro a continuaciíon:
+
+<p align="center">
+  <img src="images/vista-despliegue.png" alt="Install phyton"/>
+</p>
 ## Referencias
 * https://www.ubuntu.com/download/server
