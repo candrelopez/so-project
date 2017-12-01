@@ -65,7 +65,19 @@ El siguiente proyecto consiste en el despliegue de una aplicación web para obte
   <img src="Ambvirtual.PNG" alt="Ambiente virtual"/>  
 </p>  
 
-7.
+7. y se activa el ambiente virtual:  
+
+<p align="center">
+  <img src="activarAmb.PNG" alt="activacion Virtua"/>  
+</p>  
+
+8. Luego de esto se instala la dependencia del flask para montar el servicio web :  
+
+<p align="center">
+  <img src="Install faslk.PNG" alt="activacion Virtua"/>  
+</p>  
+
+
 
 
 ## Referencias  
