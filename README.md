@@ -103,6 +103,13 @@ y asi me pude conectar por SSH :
   <img src="script_py.PNG" alt="activacion Virtua"/>  
 </p>  
 
+ 10.Luego inicio el servicio ejecutando el script servicio.py que contiene el codigo de la imagen anterior:  
+ 
+ <p align="center">
+  <img src="correr_servicio.PNG" alt="activacion Virtua"/>  
+</p>  
+ 
+ 
 ## Referencias  
 
 * https://www.ubuntu.com/download/server
