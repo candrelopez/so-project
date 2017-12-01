@@ -6,6 +6,9 @@
 **Tema:**  Servicios web  
 **Correo:** daniel.barragan at correo.icesi.edu.co
 
+**Estudiante: A00141804**  
+**Nombre: Carlos Andrés Torres López**  
+
 ## Objetivos
 * Desplegar una aplicación en un servidor que ejecuta el sistema operativo Linux
 * Realizar los ajustes y depuración necesarios para desplegar una
@@ -42,6 +45,6 @@ El siguiente proyecto consiste en el despliegue de una aplicación web para obte
 
 <p align="center">
   <img src="Actualización phyton.PNG" alt="Install phyton"/>
-</p>
+</p>  
 ## Referencias
 * https://www.ubuntu.com/download/server
