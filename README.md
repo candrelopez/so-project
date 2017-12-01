@@ -109,6 +109,26 @@ y asi me pude conectar por SSH :
   <img src="correr_servicio.PNG" alt="activacion Virtua"/>  
 </p>  
  
+ 11. Luego de esto probamos que desde otra maquina en este caso la cliente, pueda acceder al servicio:
+ 
+  <p align="center">
+  <img src="correr_servicio.PNG" alt="activacion Virtua"/>  
+</p>  
+------------------------------------------------------------------------
+
+ <p align="center">
+  <img src="correr_servicio.PNG" alt="activacion Virtua"/>  
+</p>  
+------------------------------------------------------------------------  
+ <p align="center">
+  <img src="correr_servicio.PNG" alt="activacion Virtua"/>  
+</p>  
+------------------------------------------------------------------------  
+ <p align="center">
+  <img src="correr_servicio.PNG" alt="activacion Virtua"/>  
+</p>  
+
+ 
  
 ## Referencias  
 
