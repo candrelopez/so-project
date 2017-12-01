@@ -54,6 +54,12 @@ Configuración de red:
   <img src="Config_red.PNG" alt="Install phyton"/>  
 </p>  
 
+y asi me pude conectar por SSH :
+
+<p align="center">
+  <img src="ssh.PNG" alt="Install phyton"/>  
+</p>  
+
 3. Inicialmente se instala el phyton, pero debido a que con la evrsión que instala del phyton tenia problemas, tuve que actualizar la versión del pip (herramienta de phyton que permite instalar dependecias) para que me dejara instalar  el virtualenv, como muestro a continuaciíon:
 
 <p align="center">
