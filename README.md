@@ -47,4 +47,5 @@ El siguiente proyecto consiste en el despliegue de una aplicación web para obte
   <img src="Actualización phyton.PNG" alt="Install phyton"/>
 </p>  
 ## Referencias  
+
 * https://www.ubuntu.com/download/server
