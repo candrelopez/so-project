@@ -62,7 +62,7 @@ El siguiente proyecto consiste en el despliegue de una aplicación web para obte
 6.Luego se crea el ambiente virtual sobre el que se va a trabajar y se va a crear el servicios Web:  
 
 <p align="center">
-  <img src="virtualenv.PNG" alt="Ambiente virtual"/>  
+  <img src="Ambvirtual.PNG" alt="Ambiente virtual"/>  
 </p>  
 
 7.
