@@ -56,7 +56,7 @@ El siguiente proyecto consiste en el despliegue de una aplicación web para obte
 5. Luego de esto se instala el virtualenv:  
 
 <p align="center">
-  <img src="Puertos.PNG" alt="Ambiente virtual"/>  
+  <img src="virtualenv.PNG" alt="Ambiente virtual"/>  
 </p>   
 
 ## Referencias  
