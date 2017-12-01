@@ -65,6 +65,8 @@ El siguiente proyecto consiste en el despliegue de una aplicación web para obte
   <img src="virtualenv.PNG" alt="Ambiente virtual"/>  
 </p>  
 
+7.
+
 
 ## Referencias  
 
