@@ -53,6 +53,12 @@ El siguiente proyecto consiste en el despliegue de una aplicación web para obte
   <img src="Puertos.PNG" alt="Puertos"/>  
 </p>  
 
+5. Luego de esto se instala el virtualenv:  
+
+<p align="center">
+  <img src="Puertos.PNG" alt="Ambiente virtual"/>  
+</p>   
+
 ## Referencias  
 
 * https://www.ubuntu.com/download/server
