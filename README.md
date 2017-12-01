@@ -38,7 +38,7 @@ El siguiente proyecto consiste en el despliegue de una aplicación web para obte
 ## Solución
 1. Como primer paso se descargo y se instalo el Ubuntu server desde el link que aparece como referencia.  
 2. se procedio a configurar las interfases, en este punto tuve bastantes problemas ya que mi maquina esta configurada bajo una red cerrada y solo funcionaba con iP fija, pero lo solucione trabajando con la red inalambrica.
-3. Inicialmente se instala el phyton, pero debido a que con la evrsión que instala del phyton tenia problemas, tuve que actualizar la versión del phython para que me dejara instalar  el virtualenv, como muestro a continuaciíon:
+3. Inicialmente se instala el phyton, pero debido a que con la evrsión que instala del phyton tenia problemas, tuve que actualizar la versión del pip (herramienta de phyton que permite instalar dependecias) para que me dejara instalar  el virtualenv, como muestro a continuaciíon:
 
 <p align="center">
   <img src="Actualización phyton.PNG" alt="Install phyton"/>
