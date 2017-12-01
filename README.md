@@ -44,7 +44,7 @@ El siguiente proyecto consiste en el despliegue de una aplicación web para obte
 3. Inicialmente se instala el phyton, pero debido a que con la evrsión que instala del phyton tenia problemas, tuve que actualizar la versión del pip (herramienta de phyton que permite instalar dependecias) para que me dejara instalar  el virtualenv, como muestro a continuaciíon:
 
 <p align="center">
-  <img src="Actualización phyton.PNG" alt="Install phyton"/>
+  <img src="Actualización phyton.PNG" alt="Install phyton"/>  
 </p>  
 ## Referencias  
 
