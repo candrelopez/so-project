@@ -97,7 +97,11 @@ y asi me pude conectar por SSH :
 </p>  
 
 
-9. Luego de esto se debe crear un script.py que es el que va a contener el codigo que va a entregar la información del sistema por medio del servicio web
+9. Luego de esto se debe crear un script.py que es el que va a contener el codigo que va a entregar la información del sistema por medio del servicio web, el nombre que le puse al script es servicio.py, a continuación muestro el contenido del archivo:  
+
+<p align="center">
+  <img src="script_py.PNG" alt="activacion Virtua"/>  
+</p>  
 
 ## Referencias  
 
