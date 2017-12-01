@@ -47,6 +47,12 @@ El siguiente proyecto consiste en el despliegue de una aplicación web para obte
   <img src="Actualización phyton.PNG" alt="Install phyton"/>  
 </p>  
 
+4.Luego de eso proceso a abrir habilitar los puertos:  
+
+<p align="center">
+  <img src="Actualización phyton.PNG" alt="Puertos"/>  
+</p>  
+
 ## Referencias  
 
 * https://www.ubuntu.com/download/server
