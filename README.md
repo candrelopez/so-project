@@ -40,7 +40,20 @@ El siguiente proyecto consiste en el despliegue de una aplicación web para obte
 
 ## Solución
 1. Como primer paso se descargo y se instalo el Ubuntu server desde el link que aparece como referencia.  
-2. se procedio a configurar las interfases, en este punto tuve bastantes problemas ya que mi maquina esta configurada bajo una red cerrada y solo funcionaba con iP fija, pero lo solucione trabajando con la red inalambrica.
+Como usuario se configuro un usuaurio Proyecto con la misma contraseña.
+2. se procedio a configurar las interfases, en este punto tuve bastantes problemas ya que mi maquina esta configurada bajo una red cerrada y solo funcionaba con iP fija, pero lo solucione trabajando con la red inalambrica. y tuve que deshabilitar el firewall para poder conectarme por ssh. como muestro a continuación y tambien la información de red: 
+
+Firewall:  
+<p align="center">
+  <img src="Actualización phyton.PNG" alt="Install phyton"/>  
+</p>  
+
+Configuración de red:  
+
+<p align="center">
+  <img src="Actualización phyton.PNG" alt="Install phyton"/>  
+</p>  
+
 3. Inicialmente se instala el phyton, pero debido a que con la evrsión que instala del phyton tenia problemas, tuve que actualizar la versión del pip (herramienta de phyton que permite instalar dependecias) para que me dejara instalar  el virtualenv, como muestro a continuaciíon:
 
 <p align="center">
@@ -78,7 +91,7 @@ El siguiente proyecto consiste en el despliegue de una aplicación web para obte
 </p>  
 
 
-
+9. Luego de esto se debe crear un script.py que es el que va a contener el codigo que va a entregar la información del sistema por medio del servicio web
 
 ## Referencias  
 
