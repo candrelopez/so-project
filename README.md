@@ -8,6 +8,7 @@
 
 **Estudiante: A00141804**  
 **Nombre: Carlos Andrés Torres López**  
+**Url**: https://github.com/candrelopez/so-project/tree/A00141804 
 
 ## Objetivos
 * Desplegar una aplicación en un servidor que ejecuta el sistema operativo Linux
