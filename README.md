@@ -128,6 +128,11 @@ y asi me pude conectar por SSH :
   <img src="Prueba3.PNG" alt="activacion Virtua"/>  
 </p>  
 
+11. Y qui podemos ver como cuando se hace una petición queda registrado en el servidor, y muestra la dirección ip de donde se esta realizando la petición.  
+
+ <p align="center">
+  <img src="Verificación.PNG" alt="activacion Virtua"/>  
+</p>  
  
  
 ## Referencias  
